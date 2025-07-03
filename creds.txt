@@ -1,2 +1,2 @@
 user.name="kiran"
-user.password="kir@git"
+user.password="kir@git"  
