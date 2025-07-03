@@ -1,0 +1,2 @@
+user.name="kiran"
+user.password="kir@git"
